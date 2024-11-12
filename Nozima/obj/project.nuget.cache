@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBdACUiHXg6PHxQE/JpMc4P0Xvfdw7zTgf8Cs5KcSIjW0iNAbuEGq+JhKVBjZK1rVOzRT2NgzzuMLWJLrcXxpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Konstantinopol\\source\\repos\\Nozima\\Nozima\\Nozima.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konstantinopol\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Konstantinopol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Konstantinopol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Konstantinopol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

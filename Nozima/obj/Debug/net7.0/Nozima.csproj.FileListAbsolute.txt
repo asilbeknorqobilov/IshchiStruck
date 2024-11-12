@@ -1,0 +1,14 @@
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\bin\Debug\net7.0\Nozima.exe
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\bin\Debug\net7.0\Nozima.deps.json
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\bin\Debug\net7.0\Nozima.runtimeconfig.json
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\bin\Debug\net7.0\Nozima.dll
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\bin\Debug\net7.0\Nozima.pdb
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.AssemblyInfoInputs.cache
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.AssemblyInfo.cs
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.dll
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\refint\Nozima.dll
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.pdb
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\Nozima.genruntimeconfig.cache
+C:\Users\Konstantinopol\source\repos\Nozima\Nozima\obj\Debug\net7.0\ref\Nozima.dll
